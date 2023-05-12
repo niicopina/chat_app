@@ -1,5 +1,5 @@
 import { Router } from "express";
-import views_router from "./views/index.js";
+import views_router from "../views/index.js";
 
 const main_router = Router()
 
